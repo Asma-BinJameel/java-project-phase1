@@ -1,6 +1,6 @@
 package JavaProject;
 
-
+//edit
 public class Customer {
 private String Name;
 private String PhoneNum;
